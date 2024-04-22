@@ -16,7 +16,7 @@ export default function Navbar() {
          <Sidebar />
          </Hidden>
 
-          <Typography variant="h6" component="div" sx={{ flexGrow: 1 }} onClick={() => alert("jsadşlja")} style={{cursor: "pointer"}}>
+          <Typography variant="h6" component="div" sx={{ flexGrow: 1 }} style={{cursor: "pointer"}}>
             To-Do
           </Typography>
             <Hidden mdDown>
